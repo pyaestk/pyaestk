@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dylan</h1>
+<h1 align="center">Hi 👋 , I'm Dylan</h1>
 <h3 align="center">Beginner in android native development</h3>
+
+</br>
 
 - 🌱 I’m currently learning **Native android development**
 
