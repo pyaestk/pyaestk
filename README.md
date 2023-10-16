@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Native android development**
 
-- ⚡ Fun fact **still new to mobile development field**
+- ⚡ Fun fact **new to mobile development field**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
