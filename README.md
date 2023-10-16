@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">Beginner in android native development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pyaestk&label=Profile%20views&color=0e75b6&style=flat" alt="pyaestk" /> </p>
-
 - 🌱 I’m currently learning **Native android development**
 
 - ⚡ Fun fact **new to mobile development field**
