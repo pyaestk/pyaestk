@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">Beginner in native android development</h3>
+
 
 - 🌱 I’m currently learning **Native android development**
-
-- ⚡ Fun fact **still new to mobile development field**
 
 
 
