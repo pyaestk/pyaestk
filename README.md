@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyaestk&label=Profile%20views&color=0e75b6&style=flat" alt="pyaestk" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose & Compose Multiplatform**
 
 - 📫 How to reach me **pyaesonethantkyaw206@gmail.com**
 
