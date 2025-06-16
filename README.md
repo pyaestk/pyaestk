@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pyae Sone Thant Kyaw (Dylan)</h1>
-<h3 align="center">I'm passionate about software development and constantly seeking opportunities to learn and grow in the field.</h3>
+<h1>Hi 👋, I'm Pyae Sone Thant Kyaw (Dylan)</h1>
+<h3>I'm passionate about software development and constantly seeking opportunities to learn and grow in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyaestk&label=Profile%20views&color=0e75b6&style=flat" alt="pyaestk" /> </p>
 
